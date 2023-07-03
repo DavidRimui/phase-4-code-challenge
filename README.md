@@ -38,6 +38,5 @@ To contribute to this project, follow these steps:
     5. Submit a pull request.
 
 AUTHORS:
-    Name - Yegon Japheth Kiptoo
-    Github Username - Jay254
-    Email - jyegon504@gmail.com
+    Name - David Rimui
+    Github Username - DavidRimui
